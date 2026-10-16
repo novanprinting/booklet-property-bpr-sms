@@ -1,0 +1,2 @@
+# booklet-property-bpr-sms
+ASET PROPERTI BPR SINAR MITRA SEJAHTERA
